@@ -1,3 +1,5 @@
 **This is bold**
-__This isa also bold__
+</br>
+__This is also bold__
+</br>
 _*This is italics*_
